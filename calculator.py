@@ -8,7 +8,7 @@ class Calculator(object):
 		pass
 
 	@staticmethod
-	def add(num1 + num2):
+	def add(num1, num2):
 		return num1 + num2
 
 	@classmethod
